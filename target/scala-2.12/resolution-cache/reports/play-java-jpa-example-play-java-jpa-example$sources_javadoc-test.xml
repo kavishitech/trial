@@ -7,7 +7,7 @@
 		revision="1.0-SNAPSHOT"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, web-assets, web-assets-test, web-plugin, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, docs"
-		date="20190514162901"/>
+		date="20190514164746"/>
 	<dependencies>
 		<module organisation="org.awaitility" name="awaitility">
 			<revision name="3.1.5" status="release" pubdate="20181206200318" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://awaitility.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="112">
@@ -15,10 +15,10 @@
 				<metadata-artifact status="no" details="" size="6381" time="0" location="/Users/vinay/.ivy2/cache/org.awaitility/awaitility/ivy-3.1.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/awaitility/awaitility/3.1.5/awaitility-3.1.5.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="3.1.5" rev-constraint-default="3.1.5" rev-constraint-dynamic="3.1.5" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="awaitility" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="72060" time="1822" location="/Users/vinay/.ivy2/cache/org.awaitility/awaitility/srcs/awaitility-3.1.5-sources.jar">
+					<artifact name="awaitility" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="72060" time="0" location="/Users/vinay/.ivy2/cache/org.awaitility/awaitility/srcs/awaitility-3.1.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/awaitility/awaitility/3.1.5/awaitility-3.1.5-sources.jar"/>
 					</artifact>
-					<artifact name="awaitility" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="293586" time="4423" location="/Users/vinay/.ivy2/cache/org.awaitility/awaitility/docs/awaitility-3.1.5-javadoc.jar">
+					<artifact name="awaitility" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="293586" time="0" location="/Users/vinay/.ivy2/cache/org.awaitility/awaitility/docs/awaitility-3.1.5-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/awaitility/awaitility/3.1.5/awaitility-3.1.5-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -30,10 +30,10 @@
 				<metadata-artifact status="no" details="" size="10471" time="0" location="/Users/vinay/.ivy2/cache/org.assertj/assertj-core/ivy-3.11.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="3.11.1" rev-constraint-default="3.11.1" rev-constraint-dynamic="3.11.1" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="assertj-core" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="986158" time="7481" location="/Users/vinay/.ivy2/cache/org.assertj/assertj-core/srcs/assertj-core-3.11.1-sources.jar">
+					<artifact name="assertj-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="986158" time="0" location="/Users/vinay/.ivy2/cache/org.assertj/assertj-core/srcs/assertj-core-3.11.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1-sources.jar"/>
 					</artifact>
-					<artifact name="assertj-core" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="4308278" time="21603" location="/Users/vinay/.ivy2/cache/org.assertj/assertj-core/docs/assertj-core-3.11.1-javadoc.jar">
+					<artifact name="assertj-core" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="4308278" time="0" location="/Users/vinay/.ivy2/cache/org.assertj/assertj-core/docs/assertj-core-3.11.1-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -60,10 +60,10 @@
 				<metadata-artifact status="no" details="" size="5877" time="0" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/ivy-5.4.0.Final.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/hibernate/hibernate-core/5.4.0.Final/hibernate-core-5.4.0.Final.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="5.4.0.Final" rev-constraint-default="5.4.0.Final" rev-constraint-dynamic="5.4.0.Final" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="hibernate-core" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="4881207" time="19842" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/srcs/hibernate-core-5.4.0.Final-sources.jar">
+					<artifact name="hibernate-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="4881207" time="0" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/srcs/hibernate-core-5.4.0.Final-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hibernate/hibernate-core/5.4.0.Final/hibernate-core-5.4.0.Final-sources.jar"/>
 					</artifact>
-					<artifact name="hibernate-core" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="16640104" time="43957" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/docs/hibernate-core-5.4.0.Final-javadoc.jar">
+					<artifact name="hibernate-core" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="16640104" time="0" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/docs/hibernate-core-5.4.0.Final-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hibernate/hibernate-core/5.4.0.Final/hibernate-core-5.4.0.Final-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -148,10 +148,10 @@
 				<metadata-artifact status="no" details="" size="9414" time="0" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/ivy-1.9.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.9.5/byte-buddy-1.9.5.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="1.9.5" rev-constraint-default="1.9.5" rev-constraint-dynamic="1.9.5" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="byte-buddy" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1141976" time="6874" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/srcs/byte-buddy-1.9.5-sources.jar">
+					<artifact name="byte-buddy" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1141976" time="0" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/srcs/byte-buddy-1.9.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.9.5/byte-buddy-1.9.5-sources.jar"/>
 					</artifact>
-					<artifact name="byte-buddy" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="13370287" time="49319" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/docs/byte-buddy-1.9.5-javadoc.jar">
+					<artifact name="byte-buddy" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="13370287" time="0" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/docs/byte-buddy-1.9.5-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.9.5/byte-buddy-1.9.5-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -431,10 +431,10 @@
 				<metadata-artifact status="no" details="" size="4384" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws_2.12/ivy-2.7.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/play/play-ahc-ws_2.12/2.7.2/play-ahc-ws_2.12-2.7.2.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.7.2" rev-constraint-default="2.7.2" rev-constraint-dynamic="2.7.2" callerrev="1.0-SNAPSHOT" extra-info.apiURL="https://www.playframework.com/documentation/2.7.2/api/scala/index.html"/>
 				<artifacts>
-					<artifact name="play-ahc-ws_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1270333" time="7965" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws_2.12/docs/play-ahc-ws_2.12-2.7.2-javadoc.jar">
+					<artifact name="play-ahc-ws_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1270333" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws_2.12/docs/play-ahc-ws_2.12-2.7.2-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ahc-ws_2.12/2.7.2/play-ahc-ws_2.12-2.7.2-javadoc.jar"/>
 					</artifact>
-					<artifact name="play-ahc-ws_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="19373" time="1587" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws_2.12/srcs/play-ahc-ws_2.12-2.7.2-sources.jar">
+					<artifact name="play-ahc-ws_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="19373" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws_2.12/srcs/play-ahc-ws_2.12-2.7.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ahc-ws_2.12/2.7.2/play-ahc-ws_2.12-2.7.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -446,10 +446,10 @@
 				<metadata-artifact status="no" details="" size="4067" time="0" location="/Users/vinay/.ivy2/cache/javax.cache/cache-api/ivy-1.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="1.0.0" rev-constraint-default="1.0.0" rev-constraint-dynamic="1.0.0" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="cache-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="84172" time="2294" location="/Users/vinay/.ivy2/cache/javax.cache/cache-api/srcs/cache-api-1.0.0-sources.jar">
+					<artifact name="cache-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="84172" time="0" location="/Users/vinay/.ivy2/cache/javax.cache/cache-api/srcs/cache-api-1.0.0-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar"/>
 					</artifact>
-					<artifact name="cache-api" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="423631" time="4589" location="/Users/vinay/.ivy2/cache/javax.cache/cache-api/docs/cache-api-1.0.0-javadoc.jar">
+					<artifact name="cache-api" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="423631" time="0" location="/Users/vinay/.ivy2/cache/javax.cache/cache-api/docs/cache-api-1.0.0-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -461,10 +461,10 @@
 				<metadata-artifact status="no" details="" size="4761" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws-standalone_2.12/ivy-2.0.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/play/play-ahc-ws-standalone_2.12/2.0.3/play-ahc-ws-standalone_2.12-2.0.3.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.0.3" rev-constraint-default="2.0.3" rev-constraint-dynamic="2.0.3" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="play-ahc-ws-standalone_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1421911" time="7847" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws-standalone_2.12/docs/play-ahc-ws-standalone_2.12-2.0.3-javadoc.jar">
+					<artifact name="play-ahc-ws-standalone_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1421911" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws-standalone_2.12/docs/play-ahc-ws-standalone_2.12-2.0.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ahc-ws-standalone_2.12/2.0.3/play-ahc-ws-standalone_2.12-2.0.3-javadoc.jar"/>
 					</artifact>
-					<artifact name="play-ahc-ws-standalone_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="56884" time="2057" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws-standalone_2.12/srcs/play-ahc-ws-standalone_2.12-2.0.3-sources.jar">
+					<artifact name="play-ahc-ws-standalone_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="56884" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ahc-ws-standalone_2.12/srcs/play-ahc-ws-standalone_2.12-2.0.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ahc-ws-standalone_2.12/2.0.3/play-ahc-ws-standalone_2.12-2.0.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -476,10 +476,10 @@
 				<metadata-artifact status="no" details="" size="2496" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-oauth/ivy-2.0.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/play/shaded-oauth/2.0.3/shaded-oauth-2.0.3.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.0.3" rev-constraint-default="2.0.3" rev-constraint-dynamic="2.0.3" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="shaded-oauth" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="189" time="1693" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-oauth/docs/shaded-oauth-2.0.3-javadoc.jar">
+					<artifact name="shaded-oauth" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="189" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-oauth/docs/shaded-oauth-2.0.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/shaded-oauth/2.0.3/shaded-oauth-2.0.3-javadoc.jar"/>
 					</artifact>
-					<artifact name="shaded-oauth" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="258" time="1350" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-oauth/srcs/shaded-oauth-2.0.3-sources.jar">
+					<artifact name="shaded-oauth" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="258" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-oauth/srcs/shaded-oauth-2.0.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/shaded-oauth/2.0.3/shaded-oauth-2.0.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -491,10 +491,10 @@
 				<metadata-artifact status="no" details="" size="2526" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-asynchttpclient/ivy-2.0.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/play/shaded-asynchttpclient/2.0.3/shaded-asynchttpclient-2.0.3.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.0.3" rev-constraint-default="2.0.3" rev-constraint-dynamic="2.0.3" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="shaded-asynchttpclient" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="189" time="1423" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-asynchttpclient/docs/shaded-asynchttpclient-2.0.3-javadoc.jar">
+					<artifact name="shaded-asynchttpclient" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="189" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-asynchttpclient/docs/shaded-asynchttpclient-2.0.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/shaded-asynchttpclient/2.0.3/shaded-asynchttpclient-2.0.3-javadoc.jar"/>
 					</artifact>
-					<artifact name="shaded-asynchttpclient" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="266" time="1572" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-asynchttpclient/srcs/shaded-asynchttpclient-2.0.3-sources.jar">
+					<artifact name="shaded-asynchttpclient" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="266" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/shaded-asynchttpclient/srcs/shaded-asynchttpclient-2.0.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/shaded-asynchttpclient/2.0.3/shaded-asynchttpclient-2.0.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -506,10 +506,10 @@
 				<metadata-artifact status="no" details="" size="3527" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/cachecontrol_2.12/ivy-1.1.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/play/cachecontrol_2.12/1.1.5/cachecontrol_2.12-1.1.5.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="1.1.5" rev-constraint-default="1.1.5" rev-constraint-dynamic="1.1.5" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="cachecontrol_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="28014" time="2755" location="/Users/vinay/.ivy2/cache/com.typesafe.play/cachecontrol_2.12/srcs/cachecontrol_2.12-1.1.5-sources.jar">
+					<artifact name="cachecontrol_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="28014" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/cachecontrol_2.12/srcs/cachecontrol_2.12-1.1.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/cachecontrol_2.12/1.1.5/cachecontrol_2.12-1.1.5-sources.jar"/>
 					</artifact>
-					<artifact name="cachecontrol_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1444616" time="12322" location="/Users/vinay/.ivy2/cache/com.typesafe.play/cachecontrol_2.12/docs/cachecontrol_2.12-1.1.5-javadoc.jar">
+					<artifact name="cachecontrol_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1444616" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/cachecontrol_2.12/docs/cachecontrol_2.12-1.1.5-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/cachecontrol_2.12/1.1.5/cachecontrol_2.12-1.1.5-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -521,10 +521,10 @@
 				<metadata-artifact status="no" details="" size="4237" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws_2.12/ivy-2.7.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.12/2.7.2/play-ws_2.12-2.7.2.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.7.2" rev-constraint-default="2.7.2" rev-constraint-dynamic="2.7.2" callerrev="1.0-SNAPSHOT" extra-info.apiURL="https://www.playframework.com/documentation/2.7.2/api/scala/index.html"/>
 				<artifacts>
-					<artifact name="play-ws_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1216084" time="7492" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws_2.12/docs/play-ws_2.12-2.7.2-javadoc.jar">
+					<artifact name="play-ws_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1216084" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws_2.12/docs/play-ws_2.12-2.7.2-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.12/2.7.2/play-ws_2.12-2.7.2-javadoc.jar"/>
 					</artifact>
-					<artifact name="play-ws_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="11144" time="1599" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws_2.12/srcs/play-ws_2.12-2.7.2-sources.jar">
+					<artifact name="play-ws_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="11144" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws_2.12/srcs/play-ws_2.12-2.7.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws_2.12/2.7.2/play-ws_2.12-2.7.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -536,10 +536,10 @@
 				<metadata-artifact status="no" details="" size="3999" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-json_2.12/ivy-2.0.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws-standalone-json_2.12/2.0.3/play-ws-standalone-json_2.12-2.0.3.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.0.3" rev-constraint-default="2.0.3" rev-constraint-dynamic="2.0.3" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="play-ws-standalone-json_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="3782" time="3341" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-json_2.12/srcs/play-ws-standalone-json_2.12-2.0.3-sources.jar">
+					<artifact name="play-ws-standalone-json_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="3782" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-json_2.12/srcs/play-ws-standalone-json_2.12-2.0.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws-standalone-json_2.12/2.0.3/play-ws-standalone-json_2.12-2.0.3-sources.jar"/>
 					</artifact>
-					<artifact name="play-ws-standalone-json_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1163755" time="7187" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-json_2.12/docs/play-ws-standalone-json_2.12-2.0.3-javadoc.jar">
+					<artifact name="play-ws-standalone-json_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1163755" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-json_2.12/docs/play-ws-standalone-json_2.12-2.0.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws-standalone-json_2.12/2.0.3/play-ws-standalone-json_2.12-2.0.3-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -551,10 +551,10 @@
 				<metadata-artifact status="no" details="" size="4001" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-xml_2.12/ivy-2.0.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws-standalone-xml_2.12/2.0.3/play-ws-standalone-xml_2.12-2.0.3.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.0.3" rev-constraint-default="2.0.3" rev-constraint-dynamic="2.0.3" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="play-ws-standalone-xml_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1166909" time="11574" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-xml_2.12/docs/play-ws-standalone-xml_2.12-2.0.3-javadoc.jar">
+					<artifact name="play-ws-standalone-xml_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1166909" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-xml_2.12/docs/play-ws-standalone-xml_2.12-2.0.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws-standalone-xml_2.12/2.0.3/play-ws-standalone-xml_2.12-2.0.3-javadoc.jar"/>
 					</artifact>
-					<artifact name="play-ws-standalone-xml_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="4838" time="1520" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-xml_2.12/srcs/play-ws-standalone-xml_2.12-2.0.3-sources.jar">
+					<artifact name="play-ws-standalone-xml_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="4838" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone-xml_2.12/srcs/play-ws-standalone-xml_2.12-2.0.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws-standalone-xml_2.12/2.0.3/play-ws-standalone-xml_2.12-2.0.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -566,10 +566,10 @@
 				<metadata-artifact status="no" details="" size="3266" time="0" location="/Users/vinay/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="scala-xml_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="111158" time="3613" location="/Users/vinay/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/srcs/scala-xml_2.12-1.1.1-sources.jar">
+					<artifact name="scala-xml_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="111158" time="0" location="/Users/vinay/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/srcs/scala-xml_2.12-1.1.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1-sources.jar"/>
 					</artifact>
-					<artifact name="scala-xml_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="2596574" time="12076" location="/Users/vinay/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/docs/scala-xml_2.12-1.1.1-javadoc.jar">
+					<artifact name="scala-xml_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="2596574" time="0" location="/Users/vinay/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/docs/scala-xml_2.12-1.1.1-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -589,10 +589,10 @@
 				<metadata-artifact status="no" details="" size="4118" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone_2.12/ivy-2.0.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws-standalone_2.12/2.0.3/play-ws-standalone_2.12-2.0.3.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.0.3" rev-constraint-default="2.0.3" rev-constraint-dynamic="2.0.3" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="play-ws-standalone_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1376539" time="9339" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone_2.12/docs/play-ws-standalone_2.12-2.0.3-javadoc.jar">
+					<artifact name="play-ws-standalone_2.12" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1376539" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone_2.12/docs/play-ws-standalone_2.12-2.0.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws-standalone_2.12/2.0.3/play-ws-standalone_2.12-2.0.3-javadoc.jar"/>
 					</artifact>
-					<artifact name="play-ws-standalone_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="27393" time="1307" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone_2.12/srcs/play-ws-standalone_2.12-2.0.3-sources.jar">
+					<artifact name="play-ws-standalone_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="27393" time="0" location="/Users/vinay/.ivy2/cache/com.typesafe.play/play-ws-standalone_2.12/srcs/play-ws-standalone_2.12-2.0.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/play/play-ws-standalone_2.12/2.0.3/play-ws-standalone_2.12-2.0.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1345,10 +1345,10 @@
 				<metadata-artifact status="no" details="" size="2660" time="0" location="/Users/vinay/.ivy2/cache/org.hamcrest/hamcrest-library/ivy-1.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="1.3" rev-constraint-default="1.3" rev-constraint-dynamic="1.3" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="hamcrest-library" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="203572" time="2648" location="/Users/vinay/.ivy2/cache/org.hamcrest/hamcrest-library/docs/hamcrest-library-1.3-javadoc.jar">
+					<artifact name="hamcrest-library" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="203572" time="0" location="/Users/vinay/.ivy2/cache/org.hamcrest/hamcrest-library/docs/hamcrest-library-1.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-javadoc.jar"/>
 					</artifact>
-					<artifact name="hamcrest-library" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="38886" time="1485" location="/Users/vinay/.ivy2/cache/org.hamcrest/hamcrest-library/srcs/hamcrest-library-1.3-sources.jar">
+					<artifact name="hamcrest-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="38886" time="0" location="/Users/vinay/.ivy2/cache/org.hamcrest/hamcrest-library/srcs/hamcrest-library-1.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1884,10 +1884,10 @@
 				<metadata-artifact status="no" details="" size="2991" time="0" location="/Users/vinay/.ivy2/cache/org.mockito/mockito-core/ivy-2.23.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.23.4" rev-constraint-default="2.23.4" rev-constraint-dynamic="2.23.4" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="mockito-core" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="469418" time="4310" location="/Users/vinay/.ivy2/cache/org.mockito/mockito-core/srcs/mockito-core-2.23.4-sources.jar">
+					<artifact name="mockito-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="469418" time="0" location="/Users/vinay/.ivy2/cache/org.mockito/mockito-core/srcs/mockito-core-2.23.4-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4-sources.jar"/>
 					</artifact>
-					<artifact name="mockito-core" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1251743" time="8912" location="/Users/vinay/.ivy2/cache/org.mockito/mockito-core/docs/mockito-core-2.23.4-javadoc.jar">
+					<artifact name="mockito-core" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1251743" time="0" location="/Users/vinay/.ivy2/cache/org.mockito/mockito-core/docs/mockito-core-2.23.4-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -1899,10 +1899,10 @@
 				<metadata-artifact status="no" details="" size="3457" time="0" location="/Users/vinay/.ivy2/cache/org.objenesis/objenesis/ivy-2.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="2.6" rev-constraint-default="2.6" rev-constraint-dynamic="2.6" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="objenesis" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="278400" time="3444" location="/Users/vinay/.ivy2/cache/org.objenesis/objenesis/docs/objenesis-2.6-javadoc.jar">
+					<artifact name="objenesis" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="278400" time="0" location="/Users/vinay/.ivy2/cache/org.objenesis/objenesis/docs/objenesis-2.6-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6-javadoc.jar"/>
 					</artifact>
-					<artifact name="objenesis" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="57063" time="1821" location="/Users/vinay/.ivy2/cache/org.objenesis/objenesis/srcs/objenesis-2.6-sources.jar">
+					<artifact name="objenesis" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="57063" time="0" location="/Users/vinay/.ivy2/cache/org.objenesis/objenesis/srcs/objenesis-2.6-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -1914,10 +1914,10 @@
 				<metadata-artifact status="no" details="" size="8556" time="0" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy-agent/ivy-1.9.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.9.3/byte-buddy-agent-1.9.3.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="1.9.3" rev-constraint-default="1.9.3" rev-constraint-dynamic="1.9.3" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="byte-buddy-agent" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="21130" time="1545" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy-agent/srcs/byte-buddy-agent-1.9.3-sources.jar">
+					<artifact name="byte-buddy-agent" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="21130" time="0" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy-agent/srcs/byte-buddy-agent-1.9.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.9.3/byte-buddy-agent-1.9.3-sources.jar"/>
 					</artifact>
-					<artifact name="byte-buddy-agent" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="189320" time="3166" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy-agent/docs/byte-buddy-agent-1.9.3-javadoc.jar">
+					<artifact name="byte-buddy-agent" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="189320" time="0" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy-agent/docs/byte-buddy-agent-1.9.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.9.3/byte-buddy-agent-1.9.3-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -1974,10 +1974,10 @@
 				<metadata-artifact status="no" details="" size="6284" time="0" location="/Users/vinay/.ivy2/cache/org.joda/joda-convert/ivy-1.9.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/joda/joda-convert/1.9.2/joda-convert-1.9.2.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="test, compile, runtime" rev="1.9.2" rev-constraint-default="1.9.2" rev-constraint-dynamic="1.9.2" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="joda-convert" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="102157" time="1909" location="/Users/vinay/.ivy2/cache/org.joda/joda-convert/docs/joda-convert-1.9.2-javadoc.jar">
+					<artifact name="joda-convert" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="102157" time="0" location="/Users/vinay/.ivy2/cache/org.joda/joda-convert/docs/joda-convert-1.9.2-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/joda/joda-convert/1.9.2/joda-convert-1.9.2-javadoc.jar"/>
 					</artifact>
-					<artifact name="joda-convert" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="54616" time="2158" location="/Users/vinay/.ivy2/cache/org.joda/joda-convert/srcs/joda-convert-1.9.2-sources.jar">
+					<artifact name="joda-convert" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="54616" time="0" location="/Users/vinay/.ivy2/cache/org.joda/joda-convert/srcs/joda-convert-1.9.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/joda/joda-convert/1.9.2/joda-convert-1.9.2-sources.jar"/>
 					</artifact>
 				</artifacts>

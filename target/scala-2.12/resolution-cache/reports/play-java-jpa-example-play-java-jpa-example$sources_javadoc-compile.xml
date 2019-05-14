@@ -7,7 +7,7 @@
 		revision="1.0-SNAPSHOT"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, web-assets, web-assets-test, web-plugin, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, docs"
-		date="20190514162901"/>
+		date="20190514164746"/>
 	<dependencies>
 		<module organisation="com.typesafe.play" name="play-java-forms_2.12">
 			<revision name="2.7.2" status="release" pubdate="20190426031112" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://playframework.com" extra-info.apiURL="https://www.playframework.com/documentation/2.7.2/api/scala/index.html" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="82">
@@ -30,10 +30,10 @@
 				<metadata-artifact status="no" details="" size="5877" time="0" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/ivy-5.4.0.Final.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/hibernate/hibernate-core/5.4.0.Final/hibernate-core-5.4.0.Final.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="compile" rev="5.4.0.Final" rev-constraint-default="5.4.0.Final" rev-constraint-dynamic="5.4.0.Final" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="hibernate-core" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="4881207" time="19842" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/srcs/hibernate-core-5.4.0.Final-sources.jar">
+					<artifact name="hibernate-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="4881207" time="0" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/srcs/hibernate-core-5.4.0.Final-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hibernate/hibernate-core/5.4.0.Final/hibernate-core-5.4.0.Final-sources.jar"/>
 					</artifact>
-					<artifact name="hibernate-core" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="16640104" time="43957" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/docs/hibernate-core-5.4.0.Final-javadoc.jar">
+					<artifact name="hibernate-core" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="16640104" time="0" location="/Users/vinay/.ivy2/cache/org.hibernate/hibernate-core/docs/hibernate-core-5.4.0.Final-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hibernate/hibernate-core/5.4.0.Final/hibernate-core-5.4.0.Final-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -133,10 +133,10 @@
 				<metadata-artifact status="no" details="" size="9414" time="0" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/ivy-1.9.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.9.5/byte-buddy-1.9.5.pom"/>
 				<caller organisation="play-java-jpa-example" name="play-java-jpa-example$sources_javadoc" conf="compile" rev="1.9.5" rev-constraint-default="1.9.5" rev-constraint-dynamic="1.9.5" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="byte-buddy" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1141976" time="6874" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/srcs/byte-buddy-1.9.5-sources.jar">
+					<artifact name="byte-buddy" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1141976" time="0" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/srcs/byte-buddy-1.9.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.9.5/byte-buddy-1.9.5-sources.jar"/>
 					</artifact>
-					<artifact name="byte-buddy" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="13370287" time="49319" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/docs/byte-buddy-1.9.5-javadoc.jar">
+					<artifact name="byte-buddy" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="13370287" time="0" location="/Users/vinay/.ivy2/cache/net.bytebuddy/byte-buddy/docs/byte-buddy-1.9.5-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.9.5/byte-buddy-1.9.5-javadoc.jar"/>
 					</artifact>
 				</artifacts>

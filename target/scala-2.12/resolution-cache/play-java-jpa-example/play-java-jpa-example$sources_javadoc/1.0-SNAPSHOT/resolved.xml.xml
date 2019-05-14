@@ -4,7 +4,7 @@
 		module="play-java-jpa-example$sources_javadoc"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20190514162901"
+		publication="20190514164746"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

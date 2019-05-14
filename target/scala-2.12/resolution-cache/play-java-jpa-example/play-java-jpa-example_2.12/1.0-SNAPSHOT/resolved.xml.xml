@@ -4,7 +4,7 @@
 		module="play-java-jpa-example_2.12"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20190514162742"
+		publication="20190514220008"
 	>
 		<description>
 		play-java-jpa-example
@@ -60,5 +60,6 @@
 		<dependency org="org.awaitility" name="awaitility" rev="3.1.5" conf="test->default(compile)"/>
 		<dependency org="org.assertj" name="assertj-core" rev="3.11.1" conf="test->default(compile)"/>
 		<dependency org="org.mockito" name="mockito-core" rev="2.23.4" conf="test->default(compile)"/>
+		<dependency org="mysql" name="mysql-connector-java" rev="8.0.11" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
