@@ -1,1 +1,1 @@
-sbt "start -Dconfig.resource=production.conf"
+sbt "run -Dconfig.resource=production.conf"
