@@ -17,6 +17,8 @@ libraryDependencies += "org.awaitility" % "awaitility" % "3.1.5" % "test"
 libraryDependencies += "org.assertj" % "assertj-core" % "3.11.1" % "test"
 libraryDependencies += "org.mockito" % "mockito-core" % "2.23.4" % "test"
 libraryDependencies += "mysql" % "mysql-connector-java" % "8.0.11"
+libraryDependencies += "org.projectlombok"           % "lombok"                    % "1.16.18"   % "provided"
+
 
 
 Test / testOptions += Tests.Argument(TestFrameworks.JUnit, "-a", "-v")
